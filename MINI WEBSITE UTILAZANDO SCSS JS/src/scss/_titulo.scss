@@ -1,0 +1,22 @@
+.titulos {
+    text-align: center;
+}
+
+.sub-titulo h3{
+    color: #09a7b3;
+    font-size: 40px;
+    margin-top: 30px;
+}
+
+.titulo h1{
+    color: #02aa4d;
+    font-size: 30px;
+    margin-bottom: 100px;
+}
+
+@media screen and (max-width: 780px) {
+    .titulos  {
+        margin-top: 30px ;
+        margin-bottom: 30px;
+    }
+}
